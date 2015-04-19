@@ -7,3 +7,5 @@
 *.lst
 *.sym
 *.hex
+*.pnproj
+*.pnps
