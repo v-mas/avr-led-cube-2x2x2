@@ -1,7 +1,9 @@
 # avr led cube 2x2x2
+------------
 AtMega8 Led Cube 2x2x2
 
 Run on stock AtMega8 at 1mHz. Compiled and programmed using winavr and usbasp.
+
 
 My old project to illuminate ledcube 2x2x2. 
 
@@ -11,7 +13,7 @@ Assumptions:
 leds are connected to ports C2-5
 layers are connected to ports B5-6
 
-Program CsLedCube222.exe is made in c# to visualize illumination and generate sequence code. Just press circles to change intensity. To view generated code press "Poka¿ kod" button. You must manually copy it into code.
+Program CsLedCube222.exe is made in c# to visualize illumination and generate sequence code. Just press circles to change intensity. To view generated code press "Poka¿ kod" button. You must manually copy&paste it into atmega code.
 Files New 1.txt etc. contain some sequences.
 
 Code contains comments in Polish language.
